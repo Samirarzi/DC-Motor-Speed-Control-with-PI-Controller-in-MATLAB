@@ -12,7 +12,8 @@ The overall model consists of:
 
 Three-phase AC source feeding the thyristor converter.
 
-6-pulse controlled rectifier converting AC to DC with variable output voltage.
+6-pulse controlled rectifier converting AC to DC with variable output voltage.![1000014913](https://github.com/user-attachments/assets/007d760e-3509-4040-a4e1-d6a4309609a3)
+
 
 Separately excited DC motor used as the load.
 
