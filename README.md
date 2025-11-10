@@ -90,4 +90,7 @@ Understanding the interaction between converter and DC motor dynamics.
 Implementation of nested PI controllers for speed and current regulation.
 
 Generation of thyristor firing pulses based on control voltage.
+![1000014915](https://github.com/user-attachments/assets/283a9946-4d0e-4e21-9c56-d3d6c3e35e78)
+![1000014914](https://github.com/user-attachments/assets/eb7c6828-879a-45e9-a987-babdf62f1f1b)
+
 
